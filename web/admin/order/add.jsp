@@ -48,7 +48,7 @@
                                         <div class="card-body">
                                             <form class="forms-sample mt-3" action="AddOrder" method="post">
                                                 <div class="form-group row">
-                                                    <label for="CustomerID" class="col-sm-3 col-form-label">Customer ID</label>
+                                                    <label for="CustomerID" class="col-sm-3 col-form-label">CustomerID:</label>
                                                     <div class="col-sm-9">
                                                         <div class="dropdown">
                                                                 <select class="btn btn-outline-primary dropdown-toggle" id="CustomerID" name="customerId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
