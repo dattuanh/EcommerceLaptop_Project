@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+}
+.list {
+    background-color: #f5f5f5;
+    border-radius: 0 0 5px 5px;
+    position: absolute;
+    z-index: 1000;
+    padding: 0 0;
+}
+.list-items {
+    padding: 10px 10px;
+}
+.list-items:hover {
+    background-color: #dddddd;
+}

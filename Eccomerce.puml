@@ -1,0 +1,75 @@
+@startuml
+annotation jakarta.servlet.annotation.MultipartConfig
+annotation jakarta.servlet.annotation.WebServlet
+annotation java.lang.Override
+class Base.Dal.DAOOrder
+class Base.Dal.DaoCustomer
+class Base.Model.Customer
+class Base.Model.Order
+class Base.Model.OrderItem
+class Client.Controller.UserAccessment.Info
+class Client.Controller.UserAccessment.LogOut
+class Client.Controller.UserAccessment.Login
+class Client.Controller.UserAccessment.Register
+class Util.SendMail
+class jakarta.servlet.ServletException
+class jakarta.servlet.http.Cookie
+class jakarta.servlet.http.HttpServlet
+class jakarta.servlet.http.HttpServletRequest
+class jakarta.servlet.http.HttpServletResponse
+class jakarta.servlet.http.HttpSession
+class java.io.IOException
+class java.io.PrintWriter
+class java.util.Date
+class java.util.List
+Client.Controller.UserAccessment.Info ..> jakarta.servlet.annotation.MultipartConfig
+Client.Controller.UserAccessment.Info ..> jakarta.servlet.annotation.WebServlet
+Client.Controller.UserAccessment.Info ..> java.lang.Override
+Client.Controller.UserAccessment.Info ..> Base.Dal.DAOOrder
+Client.Controller.UserAccessment.Info ..> Base.Dal.DaoCustomer
+Client.Controller.UserAccessment.Info ..> Base.Model.Customer
+Client.Controller.UserAccessment.Info ..> Base.Model.Order
+Client.Controller.UserAccessment.Info ..> Base.Model.OrderItem
+Client.Controller.UserAccessment.Info ..> jakarta.servlet.ServletException
+Client.Controller.UserAccessment.Info --|> jakarta.servlet.http.HttpServlet
+Client.Controller.UserAccessment.Info ..> jakarta.servlet.http.HttpServletRequest
+Client.Controller.UserAccessment.Info ..> jakarta.servlet.http.HttpServletResponse
+Client.Controller.UserAccessment.Info ..> java.io.IOException
+Client.Controller.UserAccessment.Info ..> java.io.PrintWriter
+Client.Controller.UserAccessment.Info ..> java.util.Date
+Client.Controller.UserAccessment.Info ..> java.util.List
+Client.Controller.UserAccessment.LogOut ..> jakarta.servlet.annotation.WebServlet
+Client.Controller.UserAccessment.LogOut ..> java.lang.Override
+Client.Controller.UserAccessment.LogOut ..> jakarta.servlet.ServletException
+Client.Controller.UserAccessment.LogOut --|> jakarta.servlet.http.HttpServlet
+Client.Controller.UserAccessment.LogOut ..> jakarta.servlet.http.HttpServletRequest
+Client.Controller.UserAccessment.LogOut ..> jakarta.servlet.http.HttpServletResponse
+Client.Controller.UserAccessment.LogOut ..> java.io.IOException
+Client.Controller.UserAccessment.LogOut ..> java.io.PrintWriter
+Client.Controller.UserAccessment.Login ..> jakarta.servlet.annotation.WebServlet
+Client.Controller.UserAccessment.Login ..> java.lang.Override
+Client.Controller.UserAccessment.Login ..> Base.Dal.DaoCustomer
+Client.Controller.UserAccessment.Login ..> Base.Model.Customer
+Client.Controller.UserAccessment.Login ..> Util.SendMail
+Client.Controller.UserAccessment.Login ..> jakarta.servlet.ServletException
+Client.Controller.UserAccessment.Login ..> jakarta.servlet.http.Cookie
+Client.Controller.UserAccessment.Login --|> jakarta.servlet.http.HttpServlet
+Client.Controller.UserAccessment.Login ..> jakarta.servlet.http.HttpServletRequest
+Client.Controller.UserAccessment.Login ..> jakarta.servlet.http.HttpServletResponse
+Client.Controller.UserAccessment.Login ..> java.io.IOException
+Client.Controller.UserAccessment.Login ..> java.io.PrintWriter
+Client.Controller.UserAccessment.Login ..> java.util.Date
+Client.Controller.UserAccessment.Register ..> jakarta.servlet.annotation.WebServlet
+Client.Controller.UserAccessment.Register ..> java.lang.Override
+Client.Controller.UserAccessment.Register ..> Base.Dal.DaoCustomer
+Client.Controller.UserAccessment.Register ..> Base.Model.Customer
+Client.Controller.UserAccessment.Register ..> jakarta.servlet.ServletException
+Client.Controller.UserAccessment.Register --|> jakarta.servlet.http.HttpServlet
+Client.Controller.UserAccessment.Register ..> jakarta.servlet.http.HttpServletRequest
+Client.Controller.UserAccessment.Register ..> jakarta.servlet.http.HttpServletResponse
+Client.Controller.UserAccessment.Register ..> jakarta.servlet.http.HttpSession
+Client.Controller.UserAccessment.Register ..> java.io.IOException
+Client.Controller.UserAccessment.Register ..> java.io.PrintWriter
+Client.Controller.UserAccessment.Register ..> java.util.Date
+Client.Controller.UserAccessment.Register ..> java.util.List
+@enduml

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EcommerceLaptopSale:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3223a040-8f28-40f0-ac26-a06398629e78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EcommerceLaptopSale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/EcommerceLaptopSale_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docs/SDS/draw-ios/.$account-login.drawio.dtmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docs/SDS/draw-ios/account-login.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docs/SDS/draw-ios/account-login.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docs/SDS/~$S_Account_Customer.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docs/SDS/~WRL0005.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/AccountManagement/AccountManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/AccountManagement/AccountManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/DashboardManagement/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/DashboardManagement/Dashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/CloseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/CloseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/CreateOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/CreateOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/DeleteOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/DeleteOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/Edit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/Edit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/OrderIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/OrderIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/OrderManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/OrderManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/OrderManagement/SearchOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Admin/Manager/WarrantiesManagement/UpdateWarranties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Admin/Manager/WarrantiesManagement/UpdateWarranties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Base/Dal/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Base/Dal/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Base/Dal/DAOOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Base/Dal/DAOOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Base/Dal/DaoAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Base/Dal/DaoAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Base/Dal/DaoWarranties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Base/Dal/DaoWarranties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Base/Dal/Paging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Base/Dal/Paging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Base/Model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Base/Model/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Base/Util/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Base/Util/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Base/Util/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Base/Util/Utilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/DeleteCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/DeleteCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/ViewCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/ViewCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/ViewCheckout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Client/Controller/UserCart/ViewCheckout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Client/Filter/PathFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Client/Filter/PathFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpproject/EcommerceLaptopSale.vpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/account/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/account/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/account/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/account/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/assets/vendors/checkbox.js/checkbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/assets/vendors/checkbox.js/checkbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/customer/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/customer/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/customer/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/news/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/news/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/order/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/order/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/order/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/order/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/order/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/warranty/data-layout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/warranty/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/warranty/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/warranty/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/warranty/index_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/warranty/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin/warranty/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin/warranty/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/client/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/client/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/client/checkout.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/client/checkout.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/client/user/user-info/orderDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/client/user/user-info/orderDetail.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RleF1FzLxoCTLH0hI2LJW2yl2v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/FPT_University/2023_SUMMER/SWP391/bigfour_fpt/SourceCode/EcommerceLaptopSale/src/java/Admin/Manager/OrderManagement",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FPT_University\2023_SUMMER\SWP391\bigfour_fpt\SourceCode\EcommerceLaptopSale\src\java\Admin\Manager\OrderManagement" />
+      <recent name="D:\FPT_University\2023_SUMMER\SWP391\bigfour_fpt\SourceCode\EcommerceLaptopSale\src\java\Client\Controller\UserCart" />
+      <recent name="D:\FPT_University\2023_SUMMER\SWP391\bigfour_fpt\SourceCode\EcommerceLaptopSale\src\java\Base\Util" />
+      <recent name="D:\FPT_University\2023_SUMMER\SWP391\bigfour_fpt\SourceCode\EcommerceLaptopSale\src\java\Base\Dal" />
+      <recent name="D:\FPT_University\2023_SUMMER\SWP391\bigfour_fpt\SourceCode\EcommerceLaptopSale\web\client\user\user-info" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="EcommerceLaptopSale:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/EcommerceLaptopSale_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="9fcefe7a-d8f1-4c52-8b44-3509c4336e09" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59895" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EcommerceLaptopSale:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3223a040-8f28-40f0-ac26-a06398629e78" name="Changes" comment="" />
+      <created>1687828989664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687828989664</updated>
+      <workItem from="1687828990830" duration="1797000" />
+      <workItem from="1687838671230" duration="2437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
